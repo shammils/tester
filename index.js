@@ -137,7 +137,7 @@ function initTest(args) {
     if (err) { console.log(c.yellow('error starting test suite >:('),c.red.bold(JSON.stringify(err))); }
     else {
       step=0;
-      suite = util.reverseIfNeeded(args, suite);
+      //suite = util.reverseIfNeeded(args, suite);
       // determine if this is a multiple choice only test run (by args)
       if (args[1] && args[1] === "a") {
         if (args[2] && args[3] && args[4] && args[5] && !isNaN(args[2]) && !isNaN(args[3]) && !isNaN(args[4]) && !isNaN(args[5])) {
