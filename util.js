@@ -406,10 +406,11 @@ function splitStringToLength(string, maxStringLength) {
   }
 }
 function reverseIfNeeded(args, suite) {
+  // TODO: check versions
   console.log(`suite: ${JSON.stringify(suite)}`);
   if (~args.indexOf('r')) {
     console.log('got its')
   }
-  // for now, if we reverse, no multi support
   process.exit(0);
+  return suite;
 }
