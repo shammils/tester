@@ -10,7 +10,8 @@ module.exports = {
   updateSettings: updateSettings,
   displayText: displayText,
   getFace: getFace,
-  genMultiChoice: genMultiChoice
+  genMultiChoice: genMultiChoice,
+  reverseIfNeeded: reverseIfNeeded,
 };
 function getFace(type) {
   var maddies = ["(๑•̀д•́๑)","(ʘ言ʘ╬)","(°言°怒)","щ(`Д´щ;)","＼`•̀益•́´／","ヽ(`д´；)/","(｀Д´) ","ヽ(*｀ﾟД´)ﾉ","(＃｀д´)ﾉ","(•ˋ _ ˊ•)","(　｀_ゝ´)","（￣^￣）凸","凸(ﾟДﾟ#)","(((p(>o<)q)))","¯\_(ツ)_/¯"];
@@ -403,4 +404,13 @@ function splitStringToLength(string, maxStringLength) {
       return;
     }
   }
+}
+function reverseIfNeeded(args, suite) {
+  // TODO: check versions
+  console.log(`suite: ${JSON.stringify(suite)}`);
+  if (~args.indexOf('r')) {
+    console.log('got its')
+  }
+  process.exit(0);
+  return suite;
 }

@@ -51,6 +51,8 @@ rl.on('line',(line)=>{
       rl.prompt();
     break;
     case "show":
+    case "misete":
+    case "mite":
       console.log(`press enter for more, enter test numbers to select, 'q' to quit`);
       showNextSet();
     break;
@@ -86,6 +88,10 @@ rl.on('line',(line)=>{
       console.log('all selected tests removed');rl.prompt();
     break;
     case "go":
+    case "ikimasu":
+    case "ikimasho":
+    case "hajimeru":
+    case "hajime":
     case "start":
       // LETS FUCKNG DO THIS SHIT!!!!!!!
       if (selected.length>0) {
@@ -131,6 +137,7 @@ function initTest(args) {
     if (err) { console.log(c.yellow('error starting test suite >:('),c.red.bold(JSON.stringify(err))); }
     else {
       step=0;
+      //suite = util.reverseIfNeeded(args, suite);
       // determine if this is a multiple choice only test run (by args)
       if (args[1] && args[1] === "a") {
         if (args[2] && args[3] && args[4] && args[5] && !isNaN(args[2]) && !isNaN(args[3]) && !isNaN(args[4]) && !isNaN(args[5])) {
@@ -460,6 +467,7 @@ function performInputTest() {
   }
 }
 
+// TODO: remove one of these duplicate functions... how is this working??
 function performSimpleTest() {
   // 'f' to flip flashcard
   // 's' for status (1 out of <x> tests hit)
