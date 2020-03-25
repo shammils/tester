@@ -75,6 +75,7 @@ rl.on('line',(line)=>{
     break;
     case "sel":
     case "select":
+    case "add":
       addValidArgsToSelectedArray(args);rl.prompt();
     break;
     case "r":
@@ -652,6 +653,13 @@ function addValidArgsToSelectedArray(args) {
   // args are already trimmed and split by whitespace
   let addedTests = [];
   if (args.length>0) {
+    // check if we are adding all tests
+    if (args[1] === '*' || args[1] === 'all' || args[1] === 'zenbu') {
+      for (let i = 0; i < tests.length; i++) selected.push(i);
+      console.log(`added all tests`);
+      return;
+    }
+    // check for specific tests
     for(let i=0;i<args.length;i++) {
       let int = parseInt(args[i]);
       // make sure this is an int, a valid test number and doesnt exist in the selected array
