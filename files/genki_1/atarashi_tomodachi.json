@@ -1,0 +1,238 @@
+{
+  "label": "Atarashi Tomodachi",
+  "groups": ["test"],
+  "mediaTypes": ["text"],
+  "testTypes": ["flashcard"],
+  "version": {
+    "content": 1,
+    "schema": 1
+  },
+  "description": "Genki 1.1: Atarashi Tomodachi",
+  "notes": "gutter ghetto = くだけた, normal = たいねい, advanced polite = けいご",
+  "data": [
+    {
+      "question": { "type": "text", "val": "good morning(たいねい)" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["おはよう"] }
+    },
+    {
+      "question": { "type": "text", "val": "now" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["いま"] }
+    },
+    {
+      "question": { "type": "text", "val": "English Language" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ええご"] }
+    },
+    {
+      "question": { "type": "text", "val": "yes(たいねい)" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ええ"] }
+    },
+    {
+      "question": { "type": "text", "val": "student" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["がくせい"] }
+    },
+    {
+      "question": { "type": "text", "val": "high school" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["こうこう"] }
+    },
+    {
+      "question": { "type": "text", "val": "P.M" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ごご"] }
+    },
+    {
+      "question": { "type": "text", "val": "A.M" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ごぜん"] }
+    },
+    {
+      "question": { "type": "text", "val": "~years old" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["~さい"] }
+    },
+    {
+      "question": { "type": "text", "val": "~Mr./Ms." }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["~さん"] }
+    },
+    {
+      "question": { "type": "text", "val": "~o'clock" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["~じ"] }
+    },
+    {
+      "question": { "type": "text", "val": "teacher, professor" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["せんせい"] }
+    },
+    {
+      "question": { "type": "text", "val": "major(in school)" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["せんもん"] }
+    },
+    {
+      "question": { "type": "text", "val": "college, university" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["だいがく"] }
+    },
+    {
+      "question": { "type": "text", "val": "telephone" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["でんわ"] }
+    },
+    {
+      "question": { "type": "text", "val": "friend" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ともだち"] }
+    },
+    {
+      "question": { "type": "text", "val": "name" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["なまえ"] }
+    },
+    {
+      "question": { "type": "text", "val": "what" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["なん/なに"] }
+    },
+    {
+      "question": { "type": "text", "val": "Japan" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["にほん"] }
+    },
+    {
+      "question": { "type": "text", "val": "~year student" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["~ねんせい"] }
+    },
+    {
+      "question": { "type": "text", "val": "yes(けいご)" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["はい"] }
+    },
+    {
+      "question": { "type": "text", "val": "half(time)" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["はん"] }
+    },
+    {
+      "question": { "type": "text", "val": "number" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ばんごう"] }
+    },
+    {
+      "question": { "type": "text", "val": "international student" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["りゅうがくせい"] }
+    },
+    {
+      "question": { "type": "text", "val": "I" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["わたし"] }
+    },
+    {
+      "question": { "type": "text", "val": "America" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["アメリカ"] }
+    },
+    {
+      "question": { "type": "text", "val": "Britain" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["イギリス"] }
+    },
+    {
+      "question": { "type": "text", "val": "Australia" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+    {
+      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": [""] }
+    },
+  ]
+}
