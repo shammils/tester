@@ -11,10 +11,6 @@
   "notes": "gutter ghetto = くだけた, normal = たいねい, advanced polite = けいご",
   "data": [
     {
-      "question": { "type": "text", "val": "good morning(たいねい)" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": ["おはよう"] }
-    },
-    {
       "question": { "type": "text", "val": "now" }, "types": ["flashcard"],
       "answer": { "type": "text", "val": ["いま"] }
     },
@@ -120,119 +116,115 @@
     },
     {
       "question": { "type": "text", "val": "Australia" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "answer": { "type": "text", "val": ["オーストラリア"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "Korea" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["かんこく"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "Sweden" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["スウエーデン"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "China" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ちゃうごく"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "science" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["かがく"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "Asian studies" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["アジアけんきゅう"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "economics" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["けいざい"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "international relations" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["こくさいかんけい"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "computer" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["コンピューター"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "anthropology" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["じんるいがく"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "politics" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["せいじ"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "business" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ビジネス"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "literature" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["ぶんがく"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "history" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["れきし"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "job; work; occupation" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["しごと"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "doctor" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["いしゃ"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "office worker" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["かいしゃいん"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "high school student" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["こうこうせい"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "house wife" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["しゅふ"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "graduate student" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["だいがくいんせい"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "college student" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["だいがくせい"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "lawyer" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["べんごし"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "mother" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["おかあさん"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "father" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["おとうさん"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "older sister" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["おねえさん"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "older brother" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["おにいさん"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
+      "question": { "type": "text", "val": "younger sister" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["いもうと"] }
     },
     {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
-    },
-    {
-      "question": { "type": "text", "val": "" }, "types": ["flashcard"],
-      "answer": { "type": "text", "val": [""] }
-    },
+      "question": { "type": "text", "val": "younger brother" }, "types": ["flashcard"],
+      "answer": { "type": "text", "val": ["おとうと"] }
+    }
   ]
 }
